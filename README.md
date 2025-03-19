@@ -90,8 +90,8 @@ Example Usage:
     microbiome_data = "path/to/your/microbiome_data.csv",
     metadata = "path/to/your/metadata.csv",
     level = "family",
-    selected_metadata = "SampleType",  # Column name in your metadata for grouping
-    top_taxa = 10                      # Retain only the top 10 most abundant taxa
+    selected_metadata = "SampleType",  
+    top_taxa = 10                     
   )
 
 
