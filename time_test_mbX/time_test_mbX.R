@@ -30,7 +30,6 @@ system.time(ezviz("microbiome11.csv", "metadata11.csv", "d", "Sex", top_taxa = 2
 
 system.time(ezviz("microbiome11.csv", "metadata11.csv", "p", "Sex", top_taxa = 20))
 
-
 system.time(ezviz("microbiome11.csv", "metadata11.csv", "f", "Sex", top_taxa = 20))
 
 system.time(ezviz("microbiome11.csv", "metadata11.csv", "g", "Sex", top_taxa = 20))
