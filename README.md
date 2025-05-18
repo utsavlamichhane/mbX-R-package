@@ -1,5 +1,7 @@
-mbX
+**mbX**
 A Comprehensive R Package for Streamlined 16S rRNA Microbiome Analysis
+
+Added on April, 2025: *Now, the corresponding python library is available as "pymbX"*
 
 mbX is designed to simplify and automate the analysis of 16S rRNA microbiome data.
 Whether you're a bioinformatician aiming to automate your workflow or a researcher focused on generating 
