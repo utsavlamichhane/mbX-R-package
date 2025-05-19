@@ -1,10 +1,10 @@
-**Install the Library**
+#Install the Library
 
 ```
 library(mbX)
 ```
 
- ** Clean at Genus level:**
+##Clean at Genus level:**
 ```
 ezclean("rumen_feces_microbiome.csv",
         "rumen_fecal_metadata.txt",
@@ -12,7 +12,7 @@ ezclean("rumen_feces_microbiome.csv",
 ```
 
 
-** Visualize by SampleType (Rumen vs. Feces), showing the top 10 genera:**
+#Visualize by SampleType (Rumen vs. Feces), showing the top 10 genera
 ```
 ezviz("rumen_feces_Genus_abundance.xlsx",
       "rumen_fecal_metadata.txt",
