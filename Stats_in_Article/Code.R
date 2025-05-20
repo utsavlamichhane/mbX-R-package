@@ -22,3 +22,12 @@ ezviz("rumen_feces_Genus_abundance.xlsx",
       selected_metadata = "SampleType",
       top_taxa          = 10)
 
+# instead of using top_taxa, user can use the parameter threshold 
+# lets use threshold value = 0.5, 
+# this dumps all the genera whose abundance is less than 0.5 into Other_genera
+
+ezviz("rumen_feces_Genus_abundance.xlsx",
+      "rumen_fecal_metadata.txt",
+      level             = "G",
+      selected_metadata = "SampleType",
+      threshold          = 0.5)
