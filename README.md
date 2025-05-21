@@ -29,16 +29,19 @@ Key Features:
 
 Installation:
 -------------
-From CRAN:
-  install.packages("mbX")
 
+From CRAN:
+```
+  install.packages("mbX")
+```
 From GitHub (Local Installation):
   Download the package source file (mbX_0.1.3.tar.gz) and run:
   install.packages("mbX_0.1.3.tar.gz", repos = NULL, type = "source")
 
 Then, load the package in your R session:
+```
   library(mbX)
-
+```
 Repository Structure:
 ---------------------
 • mbx_CRAN/  
@@ -78,16 +81,20 @@ Getting Started:
 Example Usage:
 --------------
   # Load the package
+  ```
   library(mbX)
+```
 
   # Clean your microbiome data
+  ```
   ezclean(
     microbiome_data = "path/to/your/microbiome_data.csv",
     metadata = "path/to/your/metadata.txt",
     level = "family"
   )
-
+```
   # Generate a visualization
+  ```
   ezviz(
     microbiome_data = "path/to/your/microbiome_data.csv",
     metadata = "path/to/your/metadata.txt",
@@ -95,7 +102,7 @@ Example Usage:
     selected_metadata = "SampleType",  
     top_taxa = 10                     
   )
-
+```
 
 
 License:
