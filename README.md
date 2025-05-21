@@ -83,14 +83,14 @@ Example Usage:
   # Clean your microbiome data
   ezclean(
     microbiome_data = "path/to/your/microbiome_data.csv",
-    metadata = "path/to/your/metadata.csv",
+    metadata = "path/to/your/metadata.txt",
     level = "family"
   )
 
   # Generate a visualization
   ezviz(
     microbiome_data = "path/to/your/microbiome_data.csv",
-    metadata = "path/to/your/metadata.csv",
+    metadata = "path/to/your/metadata.txt",
     level = "family",
     selected_metadata = "SampleType",  
     top_taxa = 10                     
