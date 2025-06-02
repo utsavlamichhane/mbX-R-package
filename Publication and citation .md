@@ -21,3 +21,6 @@ Lamichhane, Utsav, and Jeferson Lourenco. "mbX: An R Package for Streamlined Mic
 
 Lamichhane, U. and Lourenco, J., 2025. mbX: An R Package for Streamlined Microbiome Analysis. Stats, 8(2), p.44.
 
+# Vancouver
+
+Lamichhane U, Lourenco J. mbX: An R Package for Streamlined Microbiome Analysis. Stats. 2025 May 29;8(2):44.
