@@ -3,7 +3,7 @@ The mbX article is now published in *stats*.
 Doi to the paper: https://doi.org/10.3390/stats8020044
 
 
-# ----------------------------------------- Citations -----------------------------------------------------------------
+# --------------------- Citations --------------------------
 
 # MLA
 
