@@ -1,5 +1,9 @@
+
+
 **mbX**
 A Comprehensive R Package for Streamlined 16S rRNA Microbiome Analysis
+
+Added on 2 Jun, 2025: We are currently testing the new version of mbX with two new functions and adding more user friendly features to existing functions. The updated version should be available by the end of July, 2025.
 
 Added on April, 2025: *Now, the corresponding python library is available as "pymbX"*
 
