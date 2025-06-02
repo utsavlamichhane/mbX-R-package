@@ -114,3 +114,6 @@ Contact:
 For questions or more information, please contact the Dr. Lourenco Lab at the University of Georgia.
 
 Happy analyzing!
+
+
+# Added on 2 Jun, 2025: We are currently testing the new version of mbX with two new functions and adding more user friendly features to existing functions. The updated version should be available by the end of July, 2025.
