@@ -1,4 +1,4 @@
-The mbX article is now published in *stats*.
+The mbX article is now published in *stats*. from MDPI.
 
 Doi to the paper: https://doi.org/10.3390/stats8020044
 
