@@ -3,7 +3,7 @@
 **mbX**
 A Comprehensive R Package for Streamlined 16S rRNA Microbiome Analysis
 
-Added on $ Jun, 2025: New version of mbX will have two more added functions -ezstat and ezfest. ezstat does the heavy lifting of the statistical analysis of data. And ezfest creates the manifest file just by using the location of your FASTQ files whithout the using worring about anything. 
+Added on 7 Jun, 2025: New version of mbX will have two more added functions -ezstat and ezfest. ezstat does the heavy lifting of the statistical analysis of data. And ezfest creates the manifest file just by using the location of your FASTQ files whithout the using worring about anything. 
 
 Added on 2 Jun, 2025: We are currently testing the new version of mbX with two new functions and adding more user friendly features to existing functions. The updated version should be available by the end of July, 2025.
 
