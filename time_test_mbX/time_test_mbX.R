@@ -80,4 +80,6 @@ system.time(ezviz("microbiome11.csv", "metadata11.csv", "s", "Sex", top_taxa = 2
  system.time(ezviz("microbiome6.csv", "metadata6.csv", "f", "NexteraKit", top_taxa = 20))
  system.time(ezviz("microbiome6.csv", "metadata6.csv", "g", "NexteraKit", top_taxa = 20))
  system.time(ezviz("microbiome6.csv", "metadata6.csv", "s", "NexteraKit", top_taxa = 20))
- 
+
+
+# If you just need to run the functions without the time taken by the system, remove the system.time from each line in the above code block. 
